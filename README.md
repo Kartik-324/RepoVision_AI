@@ -55,7 +55,7 @@ structure through interactive diagrams.
 ## 1️⃣ Clone Repo
 
 ``` bash
-git clone https://github.com/yourusername/github-mermaid-generator.git
+git clone https://github.com/Kartik-324/RepoVision-AI.git
 cd github-mermaid-generator
 ```
 
